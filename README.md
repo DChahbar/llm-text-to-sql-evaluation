@@ -18,9 +18,8 @@ All group members contributed to the final report.
 **My primary contributions** focused on the **NatSQL evaluation and analysis**
 section, including:
 - Designing a zero-shot evaluation comparing NatSQL and standard SQL
-- Manually constructing NatSQL equivalents for benchmark queries
 - Analyzing structural failure modes and error patterns
-- Interpreting discrepancies between published results and zero-shot behavior
+- Interpreting discrepancies between published results and zero-shot behaviour
 - Proposing practical extensions to improve NatSQL reliability
 
 ---
